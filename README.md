@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on time series analysis
+- 🔭 I’m currently working on Improving my Data Analysis skills focusing on time series forecasting
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on data analyst projects
 - 🤔 I’m looking for help with data analysis related projects
