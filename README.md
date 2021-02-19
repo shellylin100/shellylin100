@@ -9,6 +9,7 @@
 - 📫 How to reach me: yihsuanlin8@gmail.com
 - 😄 Pronouns: Call me Shelly
 
+<font color='blue'>
 ### Bio
 
 - 🙎‍I am a Master student of Project Management and Data Science and HTW Berlin
