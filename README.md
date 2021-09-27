@@ -1,8 +1,8 @@
 ### About Shelly 👋
 
-- 🔭 I’m passionate about Artificial Intelligence, Deep Learning, Machine Learning
-- 💻 I'm working on Improving my Data Analysis skills focusing on time series forecasting
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🔭 I’m passionate about Machine Learning, Artificial Intelligence, Deep Learning
+- 💻 I'm working on Improving my Data Science and Data Analysis skills focusing on statistics learning
+- 🌱 I’m currently working on my master thesis of recommender systems
 - 👯 I’m looking to collaborate on data analyst projects
 - 🤔 I’m looking for help with data analysis related projects
 - 💬 Ask me about my hobbis! (doing sport!)
