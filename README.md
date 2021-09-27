@@ -12,7 +12,7 @@
 ### Bio
 
 - 🙎‍I am a Master student of Project Management and Data Science and HTW Berlin
-- 🌱 Currently exploring the power of Machine Learning and its application to improve business
+- 🌱 Currently writting my master thesis with SAP about implementing recommender system
 - 🏅 Used to sell Semi-conductor chipsets in Taiwan for 8 years
 
 <!--
