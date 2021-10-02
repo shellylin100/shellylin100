@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on my master thesis of recommender systems
 - 👯 I’m looking to collaborate on data analyst projects
 - 🤔 I’m looking for help with data analysis related projects
-- 💬 Ask me about my hobbis! (doing sport!)
+- 💬 Ask me about my hobbies! (doing sport!)
 - 📫 How to reach me: yihsuanlin8@gmail.com
 - 😄 Pronouns: Call me Shelly
 
