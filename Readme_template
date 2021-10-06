@@ -1,0 +1,108 @@
+# Project Name
+This is a template of the ML catalogue entry.
+
+
+## Application
+
+Asset(link)
+
+#### ML Feature 
+[comment]: <> (Explanation and Details below? We can use comments as markers for parsing) 
+Dummy Explanation
+
+#### Cluster / Field of Application
+- [ ] Finance
+- [x] Sales
+- [x] Customer Success
+- [x] Concur
+- [ ] HR
+- [ ] Services
+- [ ] ID&A Internal
+
+#### Stakeholders
+
+[comment]: <> (Explanation and Details below? We can use comments as markers for parsing) 
+*Business Stakeholders:*
+
+[comment]: <> (Explanation and Details below? We can use comments as markers for parsing) 
+*Associated Stakeholders:*
+
+#### ML model owner
+
+[comment]: <> (Explanation and Details below? We can use comments as markers for parsing) 
+*Data Scientists:*
+
+[comment]: <> (Explanation and Details below? We can use comments as markers for parsing) 
+*Substitute:*
+
+
+#### Story
+[Story with link (optional)](Link Here)
+
+
+#### Platform
+InWo / SAC / ...
+
+---
+## ML Model
+
+#### Methods Used
+
+#### Code 
+This repo link and anything else?
+
+#### Platform
+
+#### ML Tags
+[comment]: <> (List of example tags can be added here) 
+Tag1, Tag2, Classification, Regression
+
+#### ML Model File
+[File Location](link to the location)
+
+#### ML Model Description
+[Description Text](https://github.wdf.sap.corp/ExponentialAnalytics/concur_hs)
+
+#### ML Owner
+I2
+List of Owners
+
+---
+## Data
+
+[comment]: <> (Could be just one table here? There is an option to parse pandas to markdown as well) 
+#### Target Variable
+Probability of Outcome
+
+#### Input Features
+
+feature_name | if | needed
+--- | --- | ---
+feature_1 | 2 | 3
+feature_2 | 2 | 3
+feature_3 | 2 | 3
+
+#### Data Sources
+[comment]: <> (Could be a table too)
+- data source 1
+- data source 2
+- [data source 4](https://github.wdf.sap.corp/ExponentialAnalytics/concur_hs)
+
+#### Output Deployed
+
+---
+## Business Impact
+
+add some business impact here - text?
+
+---
+## New Category
+- [Item with Link](https://github.wdf.sap.corp/ExponentialAnalytics/concur_hs)
+
+table | if | needed
+--- | --- | ---
+1 | 2 | 3
+
+[comment]: <> (Invisible part)
+[comment]: <> (ML Catalogue: True)
+[comment]: <> (Inore everything after this line for ML Catalogue)
